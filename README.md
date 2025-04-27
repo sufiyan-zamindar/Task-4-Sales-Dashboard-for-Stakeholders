@@ -6,7 +6,7 @@ The goal of this project is to analyze e-commerce sales data to monitor key perf
 ---
 
 ## 📂 Project Structure
-- **SuperStore Sales DataSet.xlsx** — Source dataset containing sales, profit, quantity, shipping, and customer info.
+- **SuperStore Sales DataSet.xlsx** — Source dataset containing sales, profit, quantity, shipping, and customer info etc.
 - **T4_Dashboard.pbix** — Power BI file containing the full interactive dashboard.
 - **Ecommerce_Sales_Dashboard_Report.pptx** — Presentation summarizing key findings, visuals, and business insights.
 
